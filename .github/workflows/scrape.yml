@@ -1,0 +1,50 @@
+name: Scrape Bourse de Casablanca
+
+on:
+  schedule:
+    # Toutes les 15 min, lun-ven, 08h-15h UTC (couvre la séance 09h-15h40 heure du Maroc, UTC+1 ou UTC+0 en Ramadan)
+    - cron: "*/15 8-15 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Forcer l'instantané même hors séance"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Séance ouverte ?
+        id: gate
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import sys; sys.path.insert(0, "scraper")
+          from common import now_local, WINDOW_START, WINDOW_END
+          n = now_local()
+          print("open=" + str(n.weekday() < 5 and WINDOW_START <= n.time() <= WINDOW_END).lower())
+          PY
+      - if: steps.gate.outputs.open == 'true' || inputs.force
+        run: pip install -r requirements.txt
+      - name: Scrape
+        if: steps.gate.outputs.open == 'true' || inputs.force
+        run: python scraper/scrape.py ${{ inputs.force && '--force' || '' }}
+      - name: Commit
+        run: |
+          git config user.name "bourse-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "data: $(date -u +'%Y-%m-%d %H:%M') UTC" && git pull --rebase && git push)

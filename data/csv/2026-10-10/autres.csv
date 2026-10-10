@@ -1,0 +1,24 @@
+horodatage,date,heure,creneau_15min,phase_seance,statut_seance_bourse,categorie,symbole,libelle,sous_jacent,statut_valeur,cours_reference,ouverture,dernier_cours,plus_haut,plus_bas,variation_pct,quantite_titres,volume_mad,nb_transactions,achat_prix,achat_quantite,vente_prix,vente_quantite,echeance,cours_compensation,positions_ouvertes
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AADHA,DA ADH 1/1 2008,,NT,29.99,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AATHA,DA ATH 1/3 1999,,NT,99.08,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AATHB,DA ATH 1/1 2008,,NT,59.45,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ABCIA,DA BCI 1/5 2006,,NT,108.6,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ABOAA,DA BOA 2/7 1996,,NT,51.43,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ABOAB,DA BOA 1/10 2000,,NT,18,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ABOAF,DA BOA 1/48 2025,,T,3.74,3.83,3.83,3.83,3.83,-0.5194805195,1,3.83,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ACRSA,DA CRS 1/5 2007,,NT,3.8,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ADISA,DA DIS 1/5 1999,,S,5.25,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ADRIA,DA DRI 1/10 2006,,NT,418,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AIBCA,DA IBC 1/1 2001,,NT,53.9,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ALHMA,DA LHM 8/3 2007,,NT,4069,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AMLEA,DA MLE 1/4 1999,,NT,93.73,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ANEJA,DA NEJ 1/5 2000,,NT,1124,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ANEJB,DA NEJ 1/10 2006,,NT,562.1,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AOULA,DA OUL 7/3 1999,,NT,2858,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AOULB,DA OUL 2/1 2006,,NT,2450,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,AREBA,DA REB 4/1 2001,,NT,391.1,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Droit,ASOTA,DA SOT 1/5 2005,,NT,59,,,,,,,,,,,,,,,
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Dérivé,FMASI20DEC26,MASI20 FUTURE DEC26,MASI20,NT,1212.2,,1213.1,,,0.07424,,,0,,,,,2026-12-18,1213.1,1709
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Dérivé,FMASI20MAR27,MASI20 FUTURE MAR27,MASI20,NT,1202.5,,1203.4,,,0.07484,,,0,,,,,2027-03-19,1203.4,1080
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Dérivé,FMASI20JUI27,MASI20 FUTURE JUI27,MASI20,NT,1192.9,,1193.8,,,0.07544,,,0,,,,,2027-06-18,1193.8,490
+2026-10-10 19:41:36,2026-10-10,19:41:36,19:30,Week-end,closed,Dérivé,FMASI20SEP27,MASI20 FUTURE SEP27,MASI20,NT,1183.4,,1184.3,,,0.07605,,,0,,,,,2027-09-17,1184.3,180
