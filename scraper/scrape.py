@@ -10,8 +10,10 @@ import csv
 import hashlib
 import json
 import re
+import ssl
 import sys
 import time as _time
+import urllib.error
 import urllib.request
 from collections import Counter
 from datetime import datetime
@@ -30,7 +32,15 @@ def fetch_settings(path: str, tries: int = 4) -> dict:
     for i in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "fr"})
-            html = urllib.request.urlopen(req, timeout=60).read().decode("utf-8")
+            try:
+                resp = urllib.request.urlopen(req, timeout=60)
+            except urllib.error.URLError as exc:
+                # Le site envoie une chaîne de certificats incomplète : sur Linux (GitHub Actions)
+                # la vérification échoue. Données publiques en lecture seule -> repli sans vérification.
+                if not isinstance(exc.reason, ssl.SSLCertVerificationError):
+                    raise
+                resp = urllib.request.urlopen(req, timeout=60, context=ssl._create_unverified_context())
+            html = resp.read().decode("utf-8")
             m = SETTINGS_RE.search(html)
             if not m:
                 raise ValueError("bloc drupal-settings-json introuvable")
