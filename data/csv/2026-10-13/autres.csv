@@ -1,0 +1,24 @@
+horodatage,date,heure,creneau_15min,phase_seance,statut_seance_bourse,categorie,symbole,libelle,sous_jacent,statut_valeur,cours_reference,ouverture,dernier_cours,plus_haut,plus_bas,variation_pct,quantite_titres,volume_mad,nb_transactions,achat_prix,achat_quantite,vente_prix,vente_quantite,echeance,cours_compensation,positions_ouvertes
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AADHA,DA ADH 1/1 2008,,NT,33.49,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AATHA,DA ATH 1/3 1999,,NT,101.15,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AATHB,DA ATH 1/1 2008,,NT,60.7,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ABCIA,DA BCI 1/5 2006,,NT,112.4,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ABOAA,DA BOA 2/7 1996,,NT,52.57,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ABOAB,DA BOA 1/10 2000,,NT,18.4,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ABOAF,DA BOA 1/48 2025,,NT,3.83,,,,,,,,,,,5,1,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ACRSA,DA CRS 1/5 2007,,NT,4,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ADISA,DA DIS 1/5 1999,,S,5.25,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ADRIA,DA DRI 1/10 2006,,NT,418,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AIBCA,DA IBC 1/1 2001,,NT,53.5,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ALHMA,DA LHM 8/3 2007,,NT,4267,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AMLEA,DA MLE 1/4 1999,,NT,93.5,,,,,,,,,,,93.73,2,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ANEJA,DA NEJ 1/5 2000,,NT,1124,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ANEJB,DA NEJ 1/10 2006,,NT,562.1,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AOULA,DA OUL 7/3 1999,,NT,2777,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AOULB,DA OUL 2/1 2006,,NT,2380,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,AREBA,DA REB 4/1 2001,,NT,395.6,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Droit,ASOTA,DA SOT 1/5 2005,,NT,62,,,,,,,,,,,,,,,
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Dérivé,FMASI20DEC26,MASI20 FUTURE DEC26,MASI20,NT,1218.6,,1225.1,,,0.53339,,,0,1213.3,60,1222.3,60,2026-12-18,0,1709
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Dérivé,FMASI20MAR27,MASI20 FUTURE MAR27,MASI20,NT,1215.9,,1215.4,,,-0.04112,,,0,1219.3,50,1230.2,50,2027-03-19,0,1080
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Dérivé,FMASI20JUI27,MASI20 FUTURE JUI27,MASI20,NT,1213.5,,1205.8,,,-0.63452,,,0,1218.8,40,1230.9,40,2027-06-18,0,490
+2026-10-13 15:38:58,2026-10-13,15:38:58,15:30,Fixing de clôture,open,Dérivé,FMASI20SEP27,MASI20 FUTURE SEP27,MASI20,NT,1211.4,,1196.3,,,-1.24649,,,0,1201.2,30,1214.4,30,2027-09-17,0,180
