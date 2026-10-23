@@ -1,0 +1,24 @@
+horodatage,date,heure,creneau_15min,phase_seance,statut_seance_bourse,categorie,symbole,libelle,sous_jacent,statut_valeur,cours_reference,ouverture,dernier_cours,plus_haut,plus_bas,variation_pct,quantite_titres,volume_mad,nb_transactions,achat_prix,achat_quantite,vente_prix,vente_quantite,echeance,cours_compensation,positions_ouvertes
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AADHA,DA ADH 1/1 2008,,NT,37.3,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AATHA,DA ATH 1/3 1999,,NT,100,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AATHB,DA ATH 1/1 2008,,NT,60,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ABCIA,DA BCI 1/5 2006,,NT,115,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ABOAA,DA BOA 2/7 1996,,NT,52.57,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ABOAB,DA BOA 1/10 2000,,NT,18.4,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ABOAF,DA BOA 1/48 2025,,NT,3.83,,,,,,,,,,,5,1,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ACRSA,DA CRS 1/5 2007,,NT,3.86,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ADISA,DA DIS 1/5 1999,,S,5.25,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ADRIA,DA DRI 1/10 2006,,NT,418,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AIBCA,DA IBC 1/1 2001,,NT,50,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ALHMA,DA LHM 8/3 2007,,NT,4344,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AMLEA,DA MLE 1/4 1999,,NT,91.75,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ANEJA,DA NEJ 1/5 2000,,NT,1124,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ANEJB,DA NEJ 1/10 2006,,NT,562.1,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AOULA,DA OUL 7/3 1999,,NT,2637,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AOULB,DA OUL 2/1 2006,,NT,2260,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,AREBA,DA REB 4/1 2001,,NT,360,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Droit,ASOTA,DA SOT 1/5 2005,,NT,64.2,,,,,,,,,,,,,,,
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Dérivé,FMASI20DEC26,MASI20 FUTURE DEC26,MASI20,NT,1215.3,,,,,0,,,0,1216.9,60,1224,60,2026-12-18,0,1949
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Dérivé,FMASI20MAR27,MASI20 FUTURE MAR27,MASI20,NT,1217.4,,,,,0,,,0,1219.6,50,1228.1,50,2027-03-19,0,1130
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Dérivé,FMASI20JUI27,MASI20 FUTURE JUI27,MASI20,NT,1236.4,,,,,0,,,0,1219.7,40,1230.2,40,2027-06-18,0,570
+2026-10-23 13:09:25,2026-10-23,13:09:25,13:00,Séance continue,open,Dérivé,FMASI20SEP27,MASI20 FUTURE SEP27,MASI20,NT,1234.5,,,,,0,,,0,1208.6,30,1220.7,30,2027-09-17,0,240
