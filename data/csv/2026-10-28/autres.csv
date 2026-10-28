@@ -1,0 +1,24 @@
+horodatage,date,heure,creneau_15min,phase_seance,statut_seance_bourse,categorie,symbole,libelle,sous_jacent,statut_valeur,cours_reference,ouverture,dernier_cours,plus_haut,plus_bas,variation_pct,quantite_titres,volume_mad,nb_transactions,achat_prix,achat_quantite,vente_prix,vente_quantite,echeance,cours_compensation,positions_ouvertes
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AADHA,DA ADH 1/1 2008,,NT,35.5,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AATHA,DA ATH 1/3 1999,,NT,98.91,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AATHB,DA ATH 1/1 2008,,NT,59.35,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ABCIA,DA BCI 1/5 2006,,NT,114,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ABOAA,DA BOA 2/7 1996,,NT,53.71,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ABOAB,DA BOA 1/10 2000,,T,18.8,18.8,18.8,18.8,18.8,-8.560311284,1,18.8,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ABOAG,DA BANK OF AFRICA 1/43 2026,,T,4.36,4.1,4.1,4.1,4.1,0.4901960784,8094,33185.4,,4.08,2900,4,551,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ACRSA,DA CRS 1/5 2007,,NT,3.75,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ADISA,DA DIS 1/5 1999,,S,5.25,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ADRIA,DA DRI 1/10 2006,,NT,418,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AIBCA,DA IBC 1/1 2001,,NT,50.02,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ALHMA,DA LHM 8/3 2007,,NT,4360,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AMLEA,DA MLE 1/4 1999,,NT,90,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ANEJA,DA NEJ 1/5 2000,,NT,1124,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ANEJB,DA NEJ 1/10 2006,,NT,562.1,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AOULA,DA OUL 7/3 1999,,NT,2637,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AOULB,DA OUL 2/1 2006,,NT,2260,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,AREBA,DA REB 4/1 2001,,NT,364,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Droit,ASOTA,DA SOT 1/5 2005,,NT,61.8,,,,,,,,,,,,,,,
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Dérivé,FMASI20DEC26,MASI20 FUTURE DEC26,MASI20,NT,1232,,,,,0,,,0,1206.7,60,1212.4,60,2026-12-18,0,2089
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Dérivé,FMASI20MAR27,MASI20 FUTURE MAR27,MASI20,NT,1229.3,,,,,0,,,0,1208.3,50,1218.5,100,2027-03-19,0,1280
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Dérivé,FMASI20JUI27,MASI20 FUTURE JUI27,MASI20,NT,1226.7,,,,,0,,,0,1208.4,40,1219,40,2027-06-18,0,700
+2026-10-28 14:54:38,2026-10-28,14:54:38,14:45,Séance continue,open,Dérivé,FMASI20SEP27,MASI20 FUTURE SEP27,MASI20,NT,1224.7,,,,,0,,,0,1198.7,30,1211.2,90,2027-09-17,0,240
